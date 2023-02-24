@@ -1,0 +1,28 @@
+.spacer{
+    width: 100px;
+
+}
+
+.input{
+    padding: 13px;
+    border-radius: 8px;
+    width: 700px;
+    border: none;
+    margin-left: 20px;
+    background-color: beige;
+
+}
+
+.box{
+    width: 500px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+}
+
+
+.icon{
+    width: 40px;
+    
+}
